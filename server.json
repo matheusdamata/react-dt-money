@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-11-18T21:37:55.924Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 2500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-22T20:25:34.549Z",
+      "id": 3
+    },
+    {
+      "description": "Caldo de cana",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2022-11-22T20:37:57.129Z",
+      "id": 4
     }
   ]
 }
